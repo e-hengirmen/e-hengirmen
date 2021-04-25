@@ -1,11 +1,9 @@
-<h1 align="center">Hi there 👋</h1>
+### Hi there 👋
 
-<p align="center">
   <a href="https://www.linkedin.com/in/ersel-hengirmen/">
     <img src="https://img.shields.io/badge/-LinkedIn-black.svg?style=plastic-square&logo=linkedin&colorB=555"
       alt="linkedin" />
   </a>
-</p>
 
 Hello, I'm Ersel Hengirmen, a computer engineering student from Middle East Technical University and CS enthusiast from Turkey.
 
