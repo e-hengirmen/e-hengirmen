@@ -10,7 +10,7 @@
 Hello, I'm Ersel Hengirmen, a computer engineering student from Middle East Technical University and CS enthusiast from Turkey.
 
 - 🌱 I’m currently learning about parallel computing
-- 👯 I’m Interested in algorithm design and analyses, parallel computing, integer programming and learning about compression algorithms.
+- 👯 I’m Interested in algorithm design and analyses, parallel computing, integer programming and learning and implementing different compression algorithms.
 - 🤔 I’m looking for new ideas to start a project. If you have anything please do not hesitate to contact me.
 - 😄 I love playing video games, table tennis and billiards
 <!--
